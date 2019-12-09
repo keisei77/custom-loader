@@ -1,0 +1,14 @@
+{
+  "name": "custom-loader",
+  "version": "1.0.0",
+  "description": "a custom loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keisei",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
